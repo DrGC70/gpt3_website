@@ -1,4 +1,4 @@
-#LANDING PAGE:
+LANDING PAGE:
 
 The location of the project: https://www.g-chakirova.co.uk/gpt3_gc/index.html
 
